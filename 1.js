@@ -7,3 +7,7 @@ const Deme=()=>{
 const handleclick = () => {
     console.log("hi this is dummy")
 }
+
+const num=()=>{
+    return 1;
+}
