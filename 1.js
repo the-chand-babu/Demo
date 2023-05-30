@@ -14,3 +14,7 @@ const num=()=>{
 djhdjjhdjhd
 dhdhdjhd
 jdjdjh
+
+const name =()=>{
+    console.log("hii")
+}
